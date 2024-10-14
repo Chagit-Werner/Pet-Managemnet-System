@@ -1,0 +1,15 @@
+C:\CHAGIT\studies\OOP_Exercise\bin\Debug\net6.0\OOP_Exercise.exe
+C:\CHAGIT\studies\OOP_Exercise\bin\Debug\net6.0\OOP_Exercise.deps.json
+C:\CHAGIT\studies\OOP_Exercise\bin\Debug\net6.0\OOP_Exercise.runtimeconfig.json
+C:\CHAGIT\studies\OOP_Exercise\bin\Debug\net6.0\OOP_Exercise.dll
+C:\CHAGIT\studies\OOP_Exercise\bin\Debug\net6.0\OOP_Exercise.pdb
+C:\CHAGIT\studies\OOP_Exercise\obj\Debug\net6.0\OOP_Exercise.csproj.AssemblyReference.cache
+C:\CHAGIT\studies\OOP_Exercise\obj\Debug\net6.0\OOP_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\CHAGIT\studies\OOP_Exercise\obj\Debug\net6.0\OOP_Exercise.AssemblyInfoInputs.cache
+C:\CHAGIT\studies\OOP_Exercise\obj\Debug\net6.0\OOP_Exercise.AssemblyInfo.cs
+C:\CHAGIT\studies\OOP_Exercise\obj\Debug\net6.0\OOP_Exercise.csproj.CoreCompileInputs.cache
+C:\CHAGIT\studies\OOP_Exercise\obj\Debug\net6.0\OOP_Exercise.dll
+C:\CHAGIT\studies\OOP_Exercise\obj\Debug\net6.0\refint\OOP_Exercise.dll
+C:\CHAGIT\studies\OOP_Exercise\obj\Debug\net6.0\OOP_Exercise.pdb
+C:\CHAGIT\studies\OOP_Exercise\obj\Debug\net6.0\OOP_Exercise.genruntimeconfig.cache
+C:\CHAGIT\studies\OOP_Exercise\obj\Debug\net6.0\ref\OOP_Exercise.dll
